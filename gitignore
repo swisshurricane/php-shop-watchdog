@@ -1,0 +1,6 @@
+config.php
+status.json
+status.json.tmp
+monitor.log
+monitor.log.1
+monitor.lock
