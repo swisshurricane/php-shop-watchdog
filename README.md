@@ -107,3 +107,4 @@ Achtung in Plesk: Ein gespeichertes Argument `--report` gilt auch für jeden aut
 2026-10-14 00:36:19;down;7.57;0;timed out before SSL handshake
 ```
 Zeitstempel; Status (ok / slow / down / netz); Antwortzeit; HTTP-Code; Fehler
+"# php-shop-watchdog" 
